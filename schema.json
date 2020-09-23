@@ -37,8 +37,7 @@
             "type": "string",
             "constraints": {
                 "pattern": "^\\d{9}$",
-                "required": true,
-                "unique": true
+                "required": true
             }
         },
         {
