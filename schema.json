@@ -34,7 +34,7 @@
             "name": "siren",
             "description": "Le numéro SIREN de l'organisme",
             "example": "110046018",
-            "type": "integer",
+            "type": "string",
             "constraints": {
                 "pattern": "^\\d{9}$",
                 "required": true
