@@ -36,7 +36,7 @@
             "example": "110046018",
             "type": "string",
             "constraints": {
-                "pattern": "^\\d{8}$",
+                "pattern": "^\\d{9}$",
                 "required": true,
                 "unique": true
             }
