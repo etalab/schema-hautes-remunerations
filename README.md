@@ -14,7 +14,7 @@ En application de [la loi n°2019-828 du 6 août 2019](https://www.legifrance.go
 
 doivent publient annuellement la somme des dix rémunérations les plus élevées des agents relevant de leur périmètre, en précisant également le nombre de femmes et d'hommes figurant parmi ces dix rémunérations les plus élevées.
 
-### Examples
+### Exemples
 
 * [Ministère de l'Education nationale](https://www.data.gouv.fr/fr/datasets/5f0d1fc8ff462cdb2a6dcf0a/)
 * [Ministère de la Culture](https://www.data.gouv.fr/fr/datasets/5ed720621bca55ea7d179ef6/)
